@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #18234a;
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-heading {
+  color: #fff;
+  font-weight: 700;
+  font-size: 100px;
+}
+
+#battery {
+  font-size: 150px;
+  vertical-align: middle;
+}
